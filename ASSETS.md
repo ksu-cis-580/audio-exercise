@@ -1,0 +1,7 @@
+﻿Content/slime.png - created by Nathan Bean for this tutorial, released under public domain
+
+Content/coins.png - created by puddin of OpenGameArt.org (https://opengameart.org/content/rotating-coin) and released under the public domain
+
+Content/Pickup_Coin15.wav - created by Nathan Bean for this tutorial with BXFR, released under public domain
+
+Content/DeeYan-Key-TheGame.mp3 - created by Dee Yan-Key (https://freemusicarchive.org/music/Dee_Yan-Key/facts_of_life/06--Dee_Yan-Key-The_Game) released under CC-By-NC-SA license
